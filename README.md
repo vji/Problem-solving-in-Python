@@ -2,9 +2,6 @@
 Min-Max algorithm for tic-tac-toe  and logistic regresser
 Implementation of Minimax algorithm and Alpha-Beta Minimax algorithm in Python.
 
-File name : ttt.py
-Author : Virendra Rajpurohit
----------------------------------------------------------------------
 
 To run type -
 
